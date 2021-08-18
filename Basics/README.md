@@ -4,4 +4,4 @@ title: Home
 nav_order: 1
 ---
 
-![MediaPipe](../docs/half adder.png)
+![Half Adder](https://github.com/amiradmehr/ANN-course/tree/main/docs/half adder.png)
