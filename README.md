@@ -1,1 +1,1 @@
-ANN Course homeworks and projects
+Artificial Neural Networks Course homeworks and projects
